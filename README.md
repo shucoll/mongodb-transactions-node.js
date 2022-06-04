@@ -2,7 +2,7 @@
 
 A demo application showing the order placing feature for E-commerce applications using MongoDB transactions.
 
-### Please refer refer to my [blog](https://www.shucoll.com/blog/mongodb-transactions-using-nodejs-and-mongoose) to understand how to setup the database for transactions.
+### Please refer refer to my [blog](https://www.shucoll.com/blog/mongodb-transactions-in-nodejs-using-mongoose) to understand how to setup the database for transactions.
 
 ## Installation and Usage
 
