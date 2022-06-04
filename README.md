@@ -9,7 +9,7 @@ A demo application showing the order placing feature for E-commerce applications
 Clone the repo
 
 ```bash
-git clone https://github.com/shucoll/mongodb-tansactions-node.js
+git clone https://github.com/shucoll/mongodb-transactions-node.js
 ```
 
 Install the dependencies
