@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-transaction",
+  "version": "1.0.0",
+  "description": "Mongodb transactions implementation using mongoose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Shuvam Shiwakoti",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "morgan": "^1.10.0"
+  }
+}
